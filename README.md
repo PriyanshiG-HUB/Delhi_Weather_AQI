@@ -1,7 +1,7 @@
 # 🌫️ Delhi Air & Weather Analytics 2025 — Data Insights Dashboard
 
 <p align="center">
-  <img src="visuals/dashboard_preview.png" alt="Dashboard Preview" width="90%">
+  <img src="D:\PowerBI\Data_Analytics_Projects\Delhhi_weather_AQI\Screenshot 2026-01-20 225743.png" width="90%">
 </p>
 
 <p align="center">
