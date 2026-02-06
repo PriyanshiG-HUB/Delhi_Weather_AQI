@@ -1,18 +1,5 @@
 # 🌫️ Delhi Air & Weather Analytics 2025 — Data Insights Dashboard
 
-<p align="center">
-  <img src="D:\PowerBI\Data_Analytics_Projects\Delhhi_weather_AQI\Screenshot 2026-01-20 225743.png" width="90%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python">
-  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi">
-  <img src="https://img.shields.io/badge/Status-Completed-success">
-  <img src="https://img.shields.io/badge/Domain-Environmental%20Analytics-green">
-</p>
-
----
-
 ## 📌 Project Overview
 This project analyzes **Delhi's 2025 weather and air quality data** to uncover patterns affecting public health and environmental conditions.
 
@@ -84,17 +71,6 @@ Interactive filters available for:
 - Month
 - Location
 - Weather condition
-
----
-
-## 🖥 Dashboard Preview
-Add screenshots inside `/visuals/` and link them:
-
-### Overview Page
-![Overview Dashboard](visuals/overview.png)
-
-### AQI Analysis
-![AQI Dashboard](visuals/aqi_analysis.png)
 
 ---
 
